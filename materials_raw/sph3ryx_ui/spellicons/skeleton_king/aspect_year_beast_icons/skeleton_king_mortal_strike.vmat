@@ -1,0 +1,9 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "ui.vfx"
+
+	//---- Color ----
+	Texture "materials/sph3ryx_ui/spellicons/skeleton_king/aspect_year_beast_icons/skeleton_king_mortal_strike.png"
+}
