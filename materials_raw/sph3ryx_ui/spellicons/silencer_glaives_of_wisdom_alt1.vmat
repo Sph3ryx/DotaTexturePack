@@ -1,0 +1,9 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "ui.vfx"
+
+	//---- Color ----
+	Texture "materials/sph3ryx_ui/spellicons/silencer_glaives_of_wisdom_alt1.png"
+}

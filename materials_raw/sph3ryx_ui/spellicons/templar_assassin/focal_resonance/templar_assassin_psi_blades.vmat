@@ -1,9 +1,0 @@
-// THIS FILE IS AUTO-GENERATED
-
-Layer0
-{
-	shader "ui.vfx"
-
-	//---- Color ----
-	Texture "materials/sph3ryx_ui/spellicons/templar_assassin/focal_resonance/templar_assassin_psi_blades.png"
-}

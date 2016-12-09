@@ -1,9 +1,0 @@
-// THIS FILE IS AUTO-GENERATED
-
-Layer0
-{
-	shader "ui.vfx"
-
-	//---- Color ----
-	Texture "materials/sph3ryx_ui/spellicons/life_stealer/promo_bloody_ripper_abilityicons/life_stealer_infest.png"
-}

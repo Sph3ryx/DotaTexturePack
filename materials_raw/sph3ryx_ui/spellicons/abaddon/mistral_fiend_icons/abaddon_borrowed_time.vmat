@@ -1,9 +1,0 @@
-// THIS FILE IS AUTO-GENERATED
-
-Layer0
-{
-	shader "ui.vfx"
-
-	//---- Color ----
-	Texture "materials/sph3ryx_ui/spellicons/abaddon/mistral_fiend_icons/abaddon_borrowed_time.png"
-}

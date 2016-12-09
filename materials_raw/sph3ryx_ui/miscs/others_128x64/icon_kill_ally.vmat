@@ -1,0 +1,9 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "ui.vfx"
+
+	//---- Color ----
+	Texture "materials/sph3ryx_ui/miscs/others_128x64/icon_kill_ally.png"
+}

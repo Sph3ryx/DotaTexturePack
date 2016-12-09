@@ -1,9 +1,0 @@
-// THIS FILE IS AUTO-GENERATED
-
-Layer0
-{
-	shader "ui.vfx"
-
-	//---- Color ----
-	Texture "materials/sph3ryx_ui/spellicons/bane/slumbering_terror/bane_nightmare.png"
-}

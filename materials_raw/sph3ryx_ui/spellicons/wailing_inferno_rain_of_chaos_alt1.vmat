@@ -1,0 +1,9 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "ui.vfx"
+
+	//---- Color ----
+	Texture "materials/sph3ryx_ui/spellicons/wailing_inferno_rain_of_chaos_alt1.png"
+}

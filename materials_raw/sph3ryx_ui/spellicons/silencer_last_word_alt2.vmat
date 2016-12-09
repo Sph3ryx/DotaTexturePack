@@ -1,0 +1,9 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "ui.vfx"
+
+	//---- Color ----
+	Texture "materials/sph3ryx_ui/spellicons/silencer_last_word_alt2.png"
+}
